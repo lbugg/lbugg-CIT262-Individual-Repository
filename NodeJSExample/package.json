@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexample-logan",
+  "version": "1.0.0",
+  "description": "NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "author": "",
+  "license": "ISC"
+}
