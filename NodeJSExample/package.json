@@ -4,6 +4,7 @@
   "description": "NodeJS Project",
   "main": "index.js",
   "scripts": {
+    "hello":"node helloworld.js",
     "test": "echo hello"
   },
   "author": "",
